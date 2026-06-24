@@ -1,9 +1,0 @@
-## Data
-
-The raw dataset is not included in this repository due to file size.
-Download it directly from the UCI Machine Learning Repository:
-
-🔗 [UCI Online Retail II Dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
-
-After downloading, place the file in `data/raw/` and run notebooks 
-01 through 08 in order to reproduce the full analysis.
